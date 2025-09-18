@@ -1,35 +1,35 @@
-<h1 align="center">Merhaba 👋, ben İsmet Güler</h1>
-<h3 align="center">Erciyes Üniversitesi'nde 2. Sınıf Bilgisayar Mühendisliği Öğrencisi • Mobil ve Yazılım Geliştirmeyle İlgileniyor</h3>
+<h1 align="center">Hi 👋, I'm İsmet Güler</h1>
+<h3 align="center">2nd-Year Computer Engineering Student at Erciyes University • Interested in Mobile & Software Development</h3>
 
-<p hizalama="sol"> <img src="https://komarev.com/ghpvc/?username=ismetguler&label=Profile%20views&color=0e75b6&style=flat" alt="ismetguler" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismetguler&label=Profile%20views&color=0e75b6&style=flat" alt="ismetguler" /> </p>
 
-- 🔭 Şu anda [Şehir Ustası] (https://github.com/ismetguler/SehirUstasi) üzerinde çalışıyorum
+- 🔭 I’m currently working on [Şehir Ustası](https://github.com/ismetguler/SehirUstasi)
 
-- 🌱 Şu anda Android için **Kotlin, C# dilinde nesne yönelimli programlama ve yazılım geliştirmenin en iyi uygulamalarını öğreniyorum.**
+- 🌱 I’m currently learning **Kotlin for Android, object-oriented programming in C#, and software development best practices.**
 
-- 👯 **C / C# projeleri, başlangıç dostu mobil uygulamalar ve basit oyunlar üzerinde işbirliği yapmak istiyorum.**
+- 👯 I’m looking to collaborate on **C / C# projects, beginner-friendly mobile apps, and simple games.**
 
-- 🤝 **Mobil geliştirme becerilerimi geliştirme (Kotlin, Android Studio) ve gösterişli uygulamalar yayınlama konusunda yardım arıyorum.**
+- 🤝 I’m looking for help with **Improving my mobile development skills (Kotlin, Android Studio) and publishing polished apps.**
 
-- ⁇ Tüm projelerim [https://github.com/ismetguler](https://github.com/ismetguler) adresinde mevcuttur
+- 👨‍💻 All of my projects are available at [https://github.com/ismetguler](https://github.com/ismetguler)
 
-- 💬 Bana **C programlama temellerini, C# deneyimimi ve ilk mobil oyun projemi sorun.**
+- 💬 Ask me about **C programming basics, my experience with C#, and my first mobile game project.**
 
-- 📫 Bana nasıl ulaşılır **gulerrismet@gmail.com**
+- 📫 How to reach me **gulerrismet@gmail.com**
 
-- ⚡ Eğlenceli gerçek ** Kodlamaya C ve C# ile başladım ama ilk mobil oyunumu çoktan çıkardım.**
+- ⚡ Fun fact **I started coding with C and C#, but I already released my first mobile game.**
 
-<h3 hizala="sol">Bana bağlan:</h3>
-<p hizala="sol">
-<a href="https://linkedin.com/in/i̇smet güler" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇smet güler" height="30" width="40" /></a>
-<a href="https://instagram.com/ismetgulerx" hedef="boş"><img hizalama="merkez" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismetgulerx" yükseklik="30" genişlik="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/i̇smet güler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇smet güler" height="30" width="40" /></a>
+<a href="https://instagram.com/ismetgulerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismetgulerx" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p hizala="sol"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" genişlik="40" yükseklik="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismetguler&show_icons=true&locale=en&layout=compact" alt="ismetguler" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismetguler&show_icons=true&locale=en" alt="ismetguler" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismetguler&show_icons=true&locale=en" alt="ismetguler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismetguler&" alt="ismetguler" /></p>
