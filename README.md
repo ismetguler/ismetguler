@@ -11,7 +11,7 @@
 
 - 👨‍💻 Tüm projelerim: GitHub profilim [github.com/ismetguler](github.com/ismetguler)
 
-- 💬 Hakkımda **-C ve C# temellerine sahibim, Python ile veri/otomasyon, Kotlin ile Android oyun deneyimim var. - Teknofest Aviyonik (Arfesa) yazılım ekibindeyim — STM32 ile telemetri/entegre sistemler üzerinde çalışıyoruz. - Play Store’da **ŞehirUstadi** adlı basit bir oyun yayınladım (Kotlin).**
+- 💬 Hakkımda **-C ve C# temellerine sahibim, Python ile veri/otomasyon, Kotlin ile Android oyun deneyimim var. - Teknofest Aviyonik (Arfesa) yazılım ekibindeyim — STM32 ile telemetri/entegre sistemler üzerinde çalışıyoruz. - Play Store’da **ŞehirUstası** adlı basit bir oyun yayınladım (Kotlin).**
 
 - 📫 Bana nasıl ulaşırsınız ? **gulerrismet@gmail.com**
 
