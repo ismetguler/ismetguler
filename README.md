@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben İsmet Güler</h1>
-<h3 align="center">**Erciyes Üniversitesi — Bilgisayar Mühendisliği (2. sınıf)** Kayseri merkezli — gömülü sistemler, gömülü yazılım ve uygulama geliştirme ilgim var.</h3>
+<h3 align="center">**Erciyes Üniversitesi — Bilgisayar Mühendisliği (2. sınıf)** — Gömülü sistemler, Gömülü yazılım ve uygulama geliştirme ilgim var.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismetguler&label=Profile%20views&color=0e75b6&style=flat" alt="ismetguler" /> </p>
 
