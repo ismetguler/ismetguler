@@ -1,31 +1,72 @@
 <h1 align="center">Merhaba 👋, Ben İsmet Güler</h1>
-<h3 align="center">**Erciyes Üniversitesi — Bilgisayar Mühendisliği (2. sınıf)** — Gömülü sistemler, Gömülü yazılım ve uygulama geliştirme ilgim var.</h3>
+<h3 align="center">Erciyes Üniversitesi — Bilgisayar Mühendisliği (2. Sınıf)</h3>
+<h4 align="center">🚀 Arfesa Roket Takımı | 📱 Mobil Uygulama Geliştirici | ⚡ Gömülü Sistemler</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismetguler&label=Profile%20views&color=0e75b6&style=flat" alt="ismetguler" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismetguler" alt="ismetguler" /></a> </p>
-
-- 🔭 Ne üzerinde çalışıyorum ? [Teknofest/Aviyonik: STM32 tabanlı telemetri modülü prototipi.](https://github.com/ismetguler/stm32)
-
-- 🌱 Şuanda Bunları Öğreniyorum **STM32 (HAL / CubeIDE), gömülü C, UART/SPI/I2C protokolleri.**
-
-- 👨‍💻 Tüm projelerim: GitHub profilim [github.com/ismetguler](github.com/ismetguler)
-
-- 💬 Hakkımda **-C ve C# temellerine sahibim, Python ile veri/otomasyon, Kotlin ile Android oyun deneyimim var. - Teknofest Aviyonik (Arfesa) yazılım ekibindeyim — STM32 ile telemetri/entegre sistemler üzerinde çalışıyoruz. - Play Store’da **ŞehirUstası** adlı basit bir oyun yayınladım (Kotlin).**
-
-- 📫 Bana nasıl ulaşırsınız ? **gulerrismet@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismet-güler-0b7ba8351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismet-güler-0b7ba8351" height="30" width="40" /></a>
-<a href="https://instagram.com/ismetgulerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismetgulerx" height="30" width="40" /></a>
+<p align="center">
+  <em>Hem donanımın kalbine (Embedded) inip kod yazmayı, hem de son kullanıcıya dokunan modern mobil ürünler (Flutter) geliştirmeyi seviyorum.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ismetguler&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="ismetguler" /> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismetguler&show_icons=true&locale=en&layout=compact" alt="ismetguler" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismetguler&show_icons=true&locale=en" alt="ismetguler" /></p>
+### 🔭 Şu An Ne Üzerinde Çalışıyorum?
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismetguler&" alt="ismetguler" /></p>
+- 📱 **10Numara (SahaKart):** Flutter ve Firebase ile geliştirdiğim, oyunlaştırma (gamification) içeren sosyal halısaha organizasyon platformu. *(Yayında)*
+- 🚀 **Arfesa Aviyonik:** Teknofest roket takımı için STM32 tabanlı telemetri modülü ve sensör verilerinin işlenmesi üzerine çalışıyorum.
+
+### 🌱 Neler Öğreniyorum?
+
+- **Mobil:** Flutter mimarisi, State Management, Google ML Kit entegrasyonları.
+- **Gömülü:** STM32 (HAL / CubeIDE), Gömülü C, UART/SPI/I2C protokolleri ve Sensör Füzyonu.
+
+---
+
+### 💻 Öne Çıkan Projelerim
+
+| Proje İsmi | Teknoloji | Açıklama |
+| :--- | :--- | :--- |
+| **[10Numara](https://on-numara-app.web.app/)** | Flutter, Firebase | Halısaha maçlarını organize eden, FIFA kartı oluşturan ve takımları otomatik dengeleyen sosyal platform. |
+| **[Lie Detector AI](https://github.com/IsmetGuler/Lie-Detector-AI-Game)** | Flutter, ML Kit | Yüz analizi ve sensör verilerini kullanarak geliştirilen yapay zeka destekli simülasyon oyunu. |
+| **[STM32 Telemetri](https://github.com/ismetguler/stm32)** | C, STM32 | Arfesa takımı ve BTK Akademi çalışmaları kapsamında geliştirdiğim gömülü yazılım projeleri. |
+| **ŞehirUstası** | Kotlin | Google Play'de 100+ indirmeye ulaşan Android şehir kurma oyunu. |
+
+---
+
+### 🛠 Diller ve Araçlar
+
+<p align="left"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismetguler&show_icons=true&locale=tr&theme=radical" alt="ismetguler" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismetguler&theme=radical" alt="ismetguler" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismetguler&show_icons=true&locale=tr&layout=compact&theme=radical" alt="ismetguler" />
+</p>
+
+---
+
+<h3 align="center">Bana Ulaşın</h3>
+<p align="center">
+<a href="https://linkedin.com/in/ismet-güler-0b7ba8351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismet-güler" height="30" width="40" /></a>
+<a href="mailto:gulerrismet@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="https://instagram.com/ismetgulerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismetgulerx" height="30" width="40" /></a>
+</p>
