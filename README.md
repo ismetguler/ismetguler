@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben İsmet Güler</h1>
 <h3 align="center">Erciyes Üniversitesi — Bilgisayar Mühendisliği (2. Sınıf)</h3>
-<h4 align="center">🚀 Arfesa Roket Takımı | 📱 Mobil Uygulama Geliştirici | ⚡ Gömülü Sistemler</h4>
+<h4 align="center">🚀 Computer Engineering Student @ERÜ | Embedded Systems Enthusiast | Arfesa Rocket Team Avionics</h4>
 
 <p align="center">
   <em>Hem donanımın kalbine (Embedded) inip kod yazmayı, hem de son kullanıcıya dokunan modern mobil ürünler (Flutter) geliştirmeyi seviyorum.</em>
