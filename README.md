@@ -31,7 +31,7 @@
 | **[10Numara](https://on-numara-app.web.app/)** | Flutter, Firebase | Halısaha maçlarını organize eden, FIFA kartı oluşturan ve takımları otomatik dengeleyen sosyal platform. |
 | **[Lie Detector AI](https://github.com/IsmetGuler/Lie-Detector-AI-Game)** | Flutter, ML Kit | Yüz analizi ve sensör verilerini kullanarak geliştirilen yapay zeka destekli simülasyon oyunu. |
 | **[STM32 Telemetri](https://github.com/ismetguler/stm32)** | C, STM32 | Arfesa takımı ve BTK Akademi çalışmaları kapsamında geliştirdiğim gömülü yazılım projeleri. |
-| **ŞehirUstası** | Kotlin | Google Play'de 100+ indirmeye ulaşan Android şehir kurma oyunu. |
+| **ŞehirUstası** | Kotlin | Google Play'de 200+ indirmeye ulaşan Android şehir kurma oyunu. |
 
 ---
 
@@ -50,19 +50,6 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismetguler&show_icons=true&locale=tr&theme=radical" alt="ismetguler" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismetguler&theme=radical" alt="ismetguler" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismetguler&show_icons=true&locale=tr&layout=compact&theme=radical" alt="ismetguler" />
-</p>
-
----
 
 <h3 align="center">Bana Ulaşın</h3>
 <p align="center">
