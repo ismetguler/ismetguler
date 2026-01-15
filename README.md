@@ -1,5 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben İsmet Güler</h1>
-<h3 align="center">Erciyes Üniversitesi — Bilgisayar Mühendisliği (2. Sınıf)</h3>
+
 <h4 align="center">🚀 Computer Engineering Student @ERÜ | Embedded Systems Enthusiast | Arfesa Rocket Team Avionics</h4>
 
 <p align="center">
