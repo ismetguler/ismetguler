@@ -1,58 +1,20 @@
+I am a 2nd-year student dedicated to building a strong foundation in software engineering. Currently, I am gaining hands-on experience in IT operations and systems management at Erciyes University's IT Department. My technical journey involves exploring both hardware-level programming and modern mobile/backend solutions.
 
-<h4 align="center">🚀 Computer Engineering Student @ERÜ | Embedded Systems Enthusiast | Arfesa Rocket Team Avionics</h4>
+🛠 Technical Skills & Interests
+Languages: C, C#, Java, Dart
 
-<p align="center">
-  <em>Hem donanımın kalbine (Embedded) inip kod yazmayı, hem de son kullanıcıya dokunan modern mobil ürünler (Flutter) geliştirmeyi seviyorum.</em>
-</p>
+Mobile Development: Developing cross-platform applications with Flutter. I particularly enjoy using Firebase for backend services, authentication, and real-time database management.
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ismetguler&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="ismetguler" /> 
-</p>
+Embedded Systems: Software development for rocket systems using STM32 microcontrollers (Team Arfesa - TEKNOFEST).
 
----
+Work Experience: IT Support and Systems infrastructure at the University's Information Technology Department.
 
-### 🔭 Şu An Ne Üzerinde Çalışıyorum?
+🎯 Current Focus
+☕ Java & Backend: Deep-diving into Java Core to transition towards professional backend engineering.
 
-- 🚀 **Arfesa Aviyonik:** Teknofest roket takımı için STM32 tabanlı telemetri modülü ve sensör verilerinin işlenmesi üzerine çalışıyorum.
+🔥 Firebase: Exploring advanced Firebase features to enhance mobile app performance and scalability.
 
-### 🌱 Neler Öğreniyorum?
+📚 Technical English: Improving my language skills to follow global documentation and industry standards.
 
-- **Mobil:** Flutter mimarisi, State Management, Google ML Kit entegrasyonları.
-- **Gömülü:** STM32 (HAL / CubeIDE), Gömülü C, UART/SPI/I2C protokolleri ve Sensör Füzyonu.
-
----
-
-### 💻 Öne Çıkan Projelerim
-
-| Proje İsmi | Teknoloji | Açıklama |
-| :--- | :--- | :--- |
-| **[Directo](https://app-directo.web.app/)** | Flutter, Firebase | Rehbere kaydetmeden mesaj atma, akıllı geçmiş (Mini CRM), esnaflar için QR ve Link oluşturucu araçları.. |
-| **[10Numara](https://on-numara-app.web.app/)** | Flutter, Firebase | Halısaha maçlarını organize eden, FIFA kartı oluşturan ve takımları otomatik dengeleyen sosyal platform. |
-| **[Lie Detector AI](https://github.com/IsmetGuler/Lie-Detector-AI-Game)** | Flutter, ML Kit | Yüz analizi ve sensör verilerini kullanarak geliştirilen yapay zeka destekli simülasyon oyunu. |
-| **[STM32 Telemetri](https://github.com/ismetguler/stm32)** | C, STM32 | Arfesa takımı ve BTK Akademi çalışmaları kapsamında geliştirdiğim gömülü yazılım projeleri. |
-| **ŞehirUstası** | Kotlin | Google Play'de 200+ indirmeye ulaşan Android şehir kurma oyunu. |
-
----
-
-### 🛠 Diller ve Araçlar
-
-<p align="left"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
----
-
-
-<h3 align="center">Bana Ulaşın</h3>
-<p align="center">
-<a href="https://linkedin.com/in/ismet-güler-0b7ba8351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismet-güler" height="30" width="40" /></a>
-<a href="mailto:gulerrismet@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-<a href="https://instagram.com/ismetgulerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismetgulerx" height="30" width="40" /></a>
-</p>
+📫 Let's Connect:
+[LinkedIn](https://www.linkedin.com/in/ismetguler/) | [Email](mailto:gulerrismet@gmail.com)
