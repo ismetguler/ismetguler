@@ -6,7 +6,7 @@ Embedded Systems • Mobile Development • Backend
 🚀 Experience:
 • STM32 Avionics Software (TEKNOFEST)
 • Firebase Backend Systems
-• Google Play Developer (300+ users)
+• Google Play Developer (400+ users)
 
 🛠 Tech Stack:
 C, C#, Java, Kotlin, Dart, Python  
