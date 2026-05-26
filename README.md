@@ -14,6 +14,7 @@ Computer Engineering student at Erciyes University. I build embedded telemetry s
 
 TEKNOFEST rocket project work focused on STM32 and ESP32 based LoRa telemetry.
 
+- Public case study: https://github.com/ismetguler/arfesa-haberlesme-test-case-study
 - Integrated STM32F407, BNO055, MS5611, GPS, and Ebyte LoRa modules
 - Prepared wiring tables, test notes, and serial monitor workflows
 - Worked on flight computer to ground station communication flow
