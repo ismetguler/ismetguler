@@ -1,50 +1,58 @@
-# Hi, I'm Ismet Guler
+<h1 align="center">Hi, I'm İsmet Güler 👋</h1>
 
-Computer Engineering student at Erciyes University. I build embedded telemetry systems, mobile apps, and backend integrations.
+<p align="center">
+  <b>Computer Engineering student · Flutter & Mobile App Developer</b><br>
+  I build simple, user-friendly apps that real people actually use.
+</p>
 
-## Focus
+<p align="center">
+  <a href="https://ismetguler.github.io"><img src="https://img.shields.io/badge/Portfolio-ismetguler.github.io-6f5bff?style=for-the-badge"></a>
+  <a href="https://play.google.com/store/apps/dev?id=6884504138616325793"><img src="https://img.shields.io/badge/Google%20Play-Developer-19d3da?style=for-the-badge&logo=googleplay&logoColor=white"></a>
+  <a href="https://apps.apple.com/tr/app/ticaret-cam%C4%B1/id6759068811"><img src="https://img.shields.io/badge/App%20Store-Ticaret%20Cam%C4%B1-000000?style=for-the-badge&logo=appstore&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ismet-g%C3%BCler-0b7ba8351/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-- Embedded systems: STM32, ESP32, sensors, LoRa communication, telemetry
-- Mobile development: Flutter, Dart, Kotlin, Android apps
-- Backend: Firebase, REST APIs, Node.js, data-driven app workflows
+---
 
-## Highlight Projects
+### 🚀 About me
 
-### ARFESA Rocket Telemetry / Communication Test
+- 🎓 3rd-year **Computer Engineering** student at **Erciyes University** (GPA 3.20/4.00)
+- 📱 I ship **Flutter & Firebase** apps — live on the **App Store** and **Google Play**
+- 💼 Delivered a **commercial app to a paying client** (Ticaret Camı, 5.0★ on the App Store)
+- 🛰️ Avionics software developer on a **TEKNOFEST** rocket team (STM32, Kalman filtering)
+- 🌍 Open to **remote project work worldwide** — let's build something
 
-TEKNOFEST rocket project work focused on STM32 and ESP32 based LoRa telemetry.
+### 🛠️ Tech stack
 
-- Public case study: https://github.com/ismetguler/arfesa-haberlesme-test-case-study
-- Integrated STM32F407, BNO055, MS5611, GPS, and Ebyte LoRa modules
-- Prepared wiring tables, test notes, and serial monitor workflows
-- Worked on flight computer to ground station communication flow
-- Tech: C, STM32CubeIDE, ESP32, LoRa, embedded systems
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
 
-### Mobile Apps
+### 📌 Featured projects
 
-- Published Android apps on Google Play
-- Built Flutter and Kotlin applications with real user-facing flows
-- Worked with Firebase-backed features and app data handling
+| Project | What it is | Stack |
+|---|---|---|
+| 🛒 **Ticaret Camı** | B2B marketplace sold & delivered to a client · live on the App Store (5.0★) | Flutter · Firebase · Maps |
+| 🗺️ **Şehir Ustası** | Geography game on Google Play · 900+ users | Kotlin · Firebase · AdMob |
+| 🧠 **Lie Detector AI** | Real-time face & biometric analysis | Flutter · Google ML Kit |
+| 💬 **Directo** | Zero-install privacy-focused chat (PWA) | Flutter Web · Firebase |
+| 🛰️ **Rocket Avionics** | STM32 flight software, Kalman filtering | C · FreeRTOS · STM32 |
 
-### Backend / API
+### 📊 GitHub stats
 
-- Built notification and information-management API workflows
-- Used JavaScript, REST APIs, and Firebase integrations
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IsmetGuler&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmetGuler&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## Tech Stack
+### 📫 Reach me
 
-**Languages:** C, C#, Java, Kotlin, Dart, Python, JavaScript  
-**Embedded:** STM32, ESP32, STM32CubeIDE, LoRa, FreeRTOS basics  
-**Mobile:** Flutter, Android, Kotlin, Firebase  
-**Backend:** REST API, Firebase, Node.js basics  
-**Tools:** Git, GitHub, serial debugging, documentation
-
-## Current Goal
-
-I am preparing for internship and junior developer opportunities where I can contribute to embedded systems, mobile development, or backend-integrated products.
-
-## Links
-
-- LinkedIn: https://linkedin.com/in/ismetguler
-- Google Play: https://play.google.com/store/apps/developer?id=ismetguler
-- GitHub: https://github.com/ismetguler
+- 📧 gulerrismet@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ismet-g%C3%BCler-0b7ba8351/)
+- 🌐 [Portfolio](https://ismetguler.github.io)
