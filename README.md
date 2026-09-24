@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm İsmet Güler 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering student · Flutter & Mobile App Developer</b><br>
+  <b>Computer Engineering student · Full-Stack & Mobile Developer</b><br>
   I build simple, user-friendly apps that real people actually use.
 </p>
 
@@ -17,6 +17,7 @@
 ### 🚀 About me
 
 - 🎓 3rd-year **Computer Engineering** student at **Erciyes University** (GPA 3.20/4.00)
+- 🏭 Built an **ERP that runs an auto repair shop every day**: Next.js, TypeScript, PostgreSQL, in production since Sep 2026
 - 📱 I ship **Flutter & Firebase** apps — live on the **App Store** and **Google Play**
 - 💼 Delivered a **commercial app to a paying client** (Ticaret Camı, 5.0★ on the App Store)
 - 🛰️ Avionics software developer on a **TEKNOFEST** rocket team (STM32, Kalman filtering)
@@ -24,6 +25,11 @@
 
 ### 🛠️ Tech stack
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
@@ -38,6 +44,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🏭 **[Oto Servis ERP](https://github.com/ismetguler/oto-servis-erp)** | ERP for an auto repair shop · in daily production use · 41 tables, 30+ reports, legacy Access data migrated | Next.js · TypeScript · PostgreSQL · Prisma |
 | 🛒 **Ticaret Camı** | B2B marketplace sold & delivered to a client · live on the App Store (5.0★) | Flutter · Firebase · Maps |
 | 🗺️ **Şehir Ustası** | Geography game on Google Play · 900+ users | Kotlin · Firebase · AdMob |
 | 🧠 **Lie Detector AI** | Real-time face & biometric analysis | Flutter · Google ML Kit |
