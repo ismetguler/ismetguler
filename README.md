@@ -46,7 +46,7 @@
 |---|---|---|
 | 🏭 **[Oto Servis ERP](https://github.com/ismetguler/oto-servis-erp)** | ERP for an auto repair shop · in daily production use · 41 tables, 30+ reports, legacy Access data migrated | Next.js · TypeScript · PostgreSQL · Prisma |
 | 🛒 **Ticaret Camı** | B2B marketplace sold & delivered to a client · live on the App Store (5.0★) | Flutter · Firebase · Maps |
-| 🗺️ **Şehir Ustası** | Geography game on Google Play · 900+ users | Kotlin · Firebase · AdMob |
+| 🗺️ **[Şehir Ustası](https://github.com/ismetguler/SehirUstasi-Turkiye-Haritasi)** | Geography game on Google Play · 1,000+ installs · map, photo, plate & daily modes | Kotlin · Firebase · AdMob |
 | 🧠 **Lie Detector AI** | Real-time face & biometric analysis | Flutter · Google ML Kit |
 | 💬 **Directo** | Zero-install privacy-focused chat (PWA) | Flutter Web · Firebase |
 | 🛰️ **Rocket Avionics** | STM32 flight software, Kalman filtering | C · FreeRTOS · STM32 |
